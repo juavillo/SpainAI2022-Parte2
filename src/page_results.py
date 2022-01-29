@@ -1,6 +1,6 @@
 import streamlit as st
 
-def user_interface():
+def results():
 
     text =  """
             # Y estas son las respuestas
