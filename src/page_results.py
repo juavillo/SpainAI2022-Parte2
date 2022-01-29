@@ -7,8 +7,3 @@ def results():
             ¿Habrá funcionado?
             """
     st.write(text)
-
-    text = "Calcular resultados"
-    pressed = st.button(text)
-
-    return pressed
