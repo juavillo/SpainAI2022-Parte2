@@ -1,8 +1,4 @@
 import streamlit as st
-import pandas as pd
-import pylab as plt
-import seaborn as sns
-
 
 def user_interface():
 
